@@ -4,7 +4,7 @@ Tarea 3
 
 ## 📌 Descripción del Proyecto
 
-Este proyecto tiene como objetivo analizar y optimizar algoritmos mediante el estudio de su complejidad computacional utilizando notación Big-O.
+Este repositorio contiene la solución a una tarea académica sobre análisis y optimización de algoritmos, correspondiente a la clase de Inteligencia Artificial impartida por el Ing.Carmelo Estuardo Mayen Monterroso. El objetivo es evaluar la eficiencia de dos algoritmos, identificar sus puntos críticos y proponer mejoras que reduzcan su complejidad temporal.
 
 Se trabajan dos casos principales:
 
@@ -24,8 +24,8 @@ Analizar la eficiencia de los algoritmos, identificar puntos críticos y aplicar
 ## 🧠 Tecnologías Utilizadas
 
 * JavaScript
-* Node.js (opcional para ejecución)
-* Consola del navegador
+* Node.js para ejecución
+* Consola del navegador para ejecion en el navegador 
 
 ---
 
