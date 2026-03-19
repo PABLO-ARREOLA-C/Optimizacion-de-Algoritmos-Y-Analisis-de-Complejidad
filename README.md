@@ -1,4 +1,4 @@
-# Optimizaci-n-de-Algoritmos-Y-An-lisis-de-Complejidad
+# Optimizacion de Algoritmos Y Analisis de Complejidad
 Tarea 3 
 # 📊 Optimización de Algoritmos y Complejidad Computacional
 
