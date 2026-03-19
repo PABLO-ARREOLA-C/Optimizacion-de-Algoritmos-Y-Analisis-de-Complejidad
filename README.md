@@ -35,8 +35,8 @@ Analizar la eficiencia de los algoritmos, identificar puntos críticos y aplicar
 📁 Tarea 3 
 │── 📄 ejercicio1.js
 │── 📄 ejercicio2.js
-│── 📄 optimizado1.js
-│── 📄 optimizado2.js
+│── 📄 ejercicio1-Optimizado.js
+│── 📄 ejercicio2-Optimizado.js
 │── 📄 README.md
 ```
 
